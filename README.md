@@ -1,2 +1,2 @@
-# RV-weather
-React Nativ Weather Application
+# react-native-weather-app
+weather app
